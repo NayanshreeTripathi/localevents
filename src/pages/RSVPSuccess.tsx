@@ -23,7 +23,7 @@ export default function RSVPSuccess() {
         <p className="text-xl font-semibold text-blue-600 mb-6">{eventTitle}</p>
 
         <p className="text-gray-600 mb-8">
-          A confirmation email will be sent to you shortly with all the event details.
+          A confirmation email will be sent to you shortly with all the event details(Version_2).
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">

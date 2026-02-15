@@ -50,7 +50,7 @@ export default function Layout() {
             </div>
             <p className="text-gray-600 font-medium mb-2">Discover and join community events near you</p>
             <p className="text-sm text-gray-500 transition-colors duration-300 hover:text-gray-700">
-              Built with React, Tailwind CSS, and Supabase
+              Built to connect people and foster local communities. Made with ❤️.
             </p>
             <div className="mt-6 flex justify-center space-x-1">
               <div className="w-2 h-2 rounded-full bg-blue-600 animate-pulse"></div>
