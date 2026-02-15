@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Calendar, MapPin, User, Sparkles, ChevronRight } from 'lucide-react';
+import { Calendar, MapPin, User, ChevronRight } from 'lucide-react';
 
 interface Event {
   id: string;
